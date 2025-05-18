@@ -15,8 +15,8 @@
 - 🎯 **Focused & Minimal Design**  
   No ads. No distractions. Just the controls you need to stay consistent.
 
-- 🔊 **Optional Sound & Haptic Feedback** *(coming soon)*  
-  Stay informed when it’s time to move — or breathe.
+- 🔊 ** Sound & Haptic Feedback**  
+  Stay informed when it’s time to move — or breathe without looking at the screen.
 
 ---
 
